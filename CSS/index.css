@@ -51,7 +51,7 @@ a:before {
 
 .button:hover {
     background-color: #edc68e;
-
+    size-adjust: -10%;
 }
 
 /* PALETA DE CORES
