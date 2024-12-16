@@ -49,9 +49,9 @@ a:before {
     margin-right: 0;
 }
 
-#button:hover {
+.button:hover {
     background-color: #edc68e;
-    
+
 }
 
 /* PALETA DE CORES
