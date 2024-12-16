@@ -45,6 +45,10 @@ a:before {
 
 }
 
+nav a:hover {
+    color: #edc68e;
+}
+
 #button {
     display: inline-block;
     background-color: #E6626F;
