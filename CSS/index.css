@@ -40,9 +40,6 @@ a:before {
     width: 10px;
     height: 10px;
     margin-right: 10px;
-    /* display: inline-block;
-    vertical-align: middle; */
-
 }
 
 nav a:hover {
@@ -62,6 +59,7 @@ nav a:hover {
 #button:hover {
     background-color: #edc68e;
     transform: scale(1.08);
+    color: #FFF;
 }
 
 /* PALETA DE CORES
